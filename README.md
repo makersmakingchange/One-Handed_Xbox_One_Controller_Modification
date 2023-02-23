@@ -43,7 +43,7 @@ Include an overall idea of what major steps are required to build the device.
 ### 1. Print the 3D Printable components
 Print the components for the switch tester case and choose an option for the case.
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 2. Assemble the One-Handed Mod for Xbox One Controller
 Reference the Assembly Guides in the [Documentation](/Documentation) folder for the tools and steps required to build each portion.

@@ -46,7 +46,7 @@ Print the components for the switch tester case and choose an option for the cas
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
 
 ### 2. Assemble the One-Handed Mod for Xbox One Controller
-Reference the [assembly guide](/Documentation/ProductTitle_Assembly_Guide.pdf) for the tools and steps required to build each portion.
+Reference the Assembly Guides in the [Documentation](/Documentation) folder for the tools and steps required to build each portion.
 
 ## Files
 <!---

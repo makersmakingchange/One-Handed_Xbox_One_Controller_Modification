@@ -26,7 +26,7 @@ This inexpensive 3D printed modification for the Xbox One controller will allow 
 PHOTO
 
  --->
-![Image Description](Photos/Device_Photo.jpg)
+![Right Hand Mod on Xbox One Controller](Photos/RH-Mod_On_Controller.jpg)
 
 <!--- 
 ## More info at

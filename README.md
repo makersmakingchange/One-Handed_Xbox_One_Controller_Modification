@@ -61,7 +61,7 @@ DOCUMENTATION
 --->
 | Document | Version | Link |
 |----------|---------|------|
-| Bill of Materials    | 1.0 | [One-Handed_Mods_BOM](/Documentation/Working_Files/One-Handed_Mods_for_Xbox_One_Controller_BOM.xlsx) |
+| Bill of Materials    | 1.0 | [One-Handed_Mods_BOM](/Documentation/Working_Documents/One-Handed_Mods_for_Xbox_One_Controller_BOM.xlsx) |
 | Left-Hand Mod Assembly Guide       | 1.0 | [Left-Hand_Mod_Instructions](/Documentation/Left-Handed_Mod_for_Xbox_One_Controller_Assembly_Guide.pdf) |
 | Right-Hand Mod Assembly Guide       | 1.0 | [Right-Hand_Mod_Instructions](/Documentation/Right-Handed_Mod_for_Xbox_One_Controller_Assembly_Guide.pdf) |
 | Maker Checklist      | 1.0 | [One-Handed_Mods_Checklist](/Documentation/One-Handed_Mods_for_Xbox_One_Controller_Maker_Checklist.pdf) |
